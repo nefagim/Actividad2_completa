@@ -1,5 +1,7 @@
 # Actividad2
 
+# Autor ???
+
 Este proyecto Java es una aplicación de consola desarrollada usando **Maven**. Está pensado como una práctica para trabajar con las librerías externas **Commons CLI** (para manejar argumentos desde consola) y **Log4j** (para registrar eventos).  
 
 ---
